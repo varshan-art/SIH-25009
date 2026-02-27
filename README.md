@@ -84,10 +84,8 @@ Implementation Flow:
    - System learns and adapts over time
 
 
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-27 193016.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-27 193037.png
+c:\Users\acer\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\0955E0CFDF549F82D8B048CAE2C3557D4EDC6300\transfers\2026-09\WhatsApp Image 2026-02-27 at 7.28.33 PM.jpegc:\Users\acer\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\0955E0CFDF549F82D8B048CAE2C3557D4EDC6300\transfers\2026-09\WhatsApp Image 2026-02-27 at 7.28.33 PM (1).jpeg
 ```
-
 ## Feasibility and Viability
 ```
 Technical Feasibility
