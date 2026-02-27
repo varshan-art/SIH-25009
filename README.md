@@ -82,10 +82,12 @@ Implementation Flow:
 4. Feedback Loop:  
    - Farmers rate advice  
    - System learns and adapts over time
-
 ```
+
 ![alt text](<Screenshot 2026-02-27 193016.png>)
 ![alt text](<Screenshot 2026-02-27 193037.png>)
+
+
 ## Feasibility and Viability
 ```
 Technical Feasibility
