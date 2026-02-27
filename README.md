@@ -135,19 +135,19 @@ To ensure smooth adoption and usability, the following challenges have been iden
 ## Research and References
 ```
 1. Smart Crop Advisor System using IoT and Machine Learning:
-   🔗 JETIR Research Paper  
+   (JETIR Research Paper)  
    - Real-time soil and weather data  
    - Predictive analytics for crop forecasting  
    - Empirical validation through case studies  
 
 2. Integrated Crop Advisory System: 
-   🔗 IRJMETS Paper  
+   (IRJMETS Paper)  
    - Uses Random Forest with 98.2% accuracy  
    - IoT sensors for NPK, moisture, pH  
    - Precision agriculture for sustainable farming  
 
 3. GitHub Project: Smart Crop Advisory System: 
-   🔗 GitHub Repo  
+   (GitHub Repo)  
    - AI-powered multilingual advisory  
    - Voice,image and text-based interaction  
    - Market price tracking and pest alerts
